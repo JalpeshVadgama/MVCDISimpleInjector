@@ -1,6 +1,4 @@
-﻿using System.Security.Cryptography.X509Certificates;
-
-namespace MVCDISimpleInjector.Models
+﻿namespace MVCDISimpleInjector.Models
 {
     public class Customer
     {
